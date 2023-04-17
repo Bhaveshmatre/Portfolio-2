@@ -180,8 +180,8 @@ body {
   }
   
   #about img{
-    width: 25rem;
-    height: 32rem;
+    width: auto;
+    height: auto;
    float: right;
    animation: alternate;
   }
